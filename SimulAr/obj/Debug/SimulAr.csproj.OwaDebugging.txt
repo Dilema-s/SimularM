@@ -1,0 +1,7 @@
+False
+281ab215-2dd8-49ba-b83e-c985d443a8ebce62d4d4-9503-4854-ae9e-d1dc0f352b75
+{a3d18448-a2a9-45e6-ac69-3c373f6395bf}{34566fa2-2446-4572-9a03-0c658a2ba2e1}
+{cbac8d39-0b05-4c35-a5fb-be677b15fc56}
+1.0.0.0
+SimulAr
+_layouts/15/

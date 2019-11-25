@@ -1,0 +1,2 @@
+C:\Users\Mati Ferrero\source\repos\SimulAr\SimulAr\obj\Debug\SimulAr.csproj.CoreCompileInputs.cache
+C:\Users\Mati Ferrero\source\repos\SimulAr\SimulAr\obj\Debug\SimulAr.csprojAssemblyReference.cache

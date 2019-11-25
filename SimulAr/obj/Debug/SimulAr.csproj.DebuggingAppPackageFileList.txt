@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\SimulArManifest.xml
+C:\Users\Mati Ferrero\source\repos\SimulAr\SimulAr\bin\Debug\SimulAr.debugapp
